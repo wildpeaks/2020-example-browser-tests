@@ -19,7 +19,7 @@ The other options:
 
 ## Run the tests
 
-Start a webserver to serve the files as http://localhost.
+Start a webserver to serve the files as `http://localhost`.
 
 Then open http://localhost/test/index.html in your browser to see the result: green means pass, red means fail.
 
