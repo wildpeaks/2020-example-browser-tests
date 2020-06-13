@@ -1,4 +1,4 @@
-# example-tests-legacy
+# JS Tests: Legacy
 
 **Option 1: run entirely in the browser**.
 
